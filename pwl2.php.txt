@@ -1,0 +1,4 @@
+<?php
+
+echo "saya kelas 14 ti 14";
+?>
